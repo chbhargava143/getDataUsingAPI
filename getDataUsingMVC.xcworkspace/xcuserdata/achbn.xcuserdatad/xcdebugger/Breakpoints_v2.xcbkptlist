@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "212A7675-3C36-427D-AB82-400B9A67F890"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A295304-824D-479C-B22E-473AD1E47820"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/APIData/DataFromAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "dataFromAPi"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E50FB176-58DD-42C7-8B4B-CBBC0BE96B7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/APIData/DataFromAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "dataFromAPi"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FF2E43-6464-4E88-8765-9697B1F86527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/APIData/DataFromAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "dataFromAPi"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B1B919C-A367-46AA-87F0-238BFA149B2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/APIData/DataUsingALamo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "gettingDataUsingAlamofire(baseUrl:serviceUrl:parameters:encoding:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B1B919C-A367-46AA-87F0-238BFA149B2D - a1ee31099963736a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static getDataUsingMVC.dataUsingALamofire.gettingDataUsingAlamofire(baseUrl: Swift.String, serviceUrl: Swift.String, parameters: __C.NSDictionary, encoding: Alamofire.ParameterEncoding, completionHandler: (Swift.AnyObject, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "getDataUsingMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achbn/Documents/getDataUsingMVC/getDataUsingMVC/APIData/DataUsingALamo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "3B1B919C-A367-46AA-87F0-238BFA149B2D - 86906b02596c8c21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static getDataUsingMVC.dataUsingALamofire.gettingDataUsingAlamofire(baseUrl: Swift.String, serviceUrl: Swift.String, parameters: __C.NSDictionary, encoding: Alamofire.ParameterEncoding, completionHandler: (Swift.AnyObject, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "getDataUsingMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achbn/Documents/getDataUsingMVC/getDataUsingMVC/APIData/DataUsingALamo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "139">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B9D24DC-4669-4F05-B2A8-20B582694EB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/APIData/DataUsingALamo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "gettingDataUsingAlamofire(baseUrl:serviceUrl:parameters:encoding:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCED0BAA-E131-4614-9519-1D645CDF8AA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getdata()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B7AF8AF-D6D0-40B5-BEB7-CED6AE23388B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "getDataUsingMVC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getdata()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B7AF8AF-D6D0-40B5-BEB7-CED6AE23388B - e82f20ff53275269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "getDataUsingMVC.ViewController.getdata() -&gt; ()"
+                  moduleName = "getDataUsingMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achbn/Documents/getDataUsingMVC/getDataUsingMVC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1B7AF8AF-D6D0-40B5-BEB7-CED6AE23388B - d66c00e96a50058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.AnyObject, Swift.String) -&gt; () in getDataUsingMVC.ViewController.getdata() -&gt; ()"
+                  moduleName = "getDataUsingMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achbn/Documents/getDataUsingMVC/getDataUsingMVC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

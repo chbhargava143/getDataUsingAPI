@@ -1,0 +1,6 @@
+framework module Pods_getDataUsingMVC {
+  umbrella header "Pods-getDataUsingMVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
